@@ -14,10 +14,11 @@
 
 <div id="badges">
 <a href="https://vk.com/gaisamov/" target="_blank">
-<img src="https://www.flaticon.com/free-icon/vk_5968835?term=vk&page=1&position=3&origin=search&related_id=5968835" width="40" height="40" alt="vk.com" />
+<img src="https://www.flaticon.com/free-icon/vk_5968835?term=vk&page=1&position=3&origin=search&related_id=5968835" width="40" height="40" alt="vk.com" />&nbsp
 </a>
 <a href="https://t.me/gaisamov" target="_blank">
-<img src="https://cdn-icons-png.fl
+<img src="https://www.flaticon.com/ru/free-icon/telegram_2111646?related_id=2111646" width="40" height="40" alt="t.me" />&nbsp
+</a>
 </div>
 
 -—
@@ -75,7 +76,7 @@
 
 | Курсы | Дата |
 | —--------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании | 02/2022 - 03/2022 |
+| netology.ru/Старт в программировании | 06/2022 - 09/2023 |
 
 -— —>
 
