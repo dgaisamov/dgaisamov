@@ -14,10 +14,10 @@
 
 <div id="badges">
 <a href="https://vk.com/gaisamov/" target="_blank">
-<img src="https://www.flaticon.com/free-icon/vk_5968835?term=vk&page=1&position=3&origin=search&related_id=5968835" width="40" height="40" alt="vk.com" />&nbsp
+<img src="![Alt text](image.png)" width="40" height="40" alt="vk.com" />&nbsp
 </a>
 <a href="https://t.me/gaisamov" target="_blank">
-<img src="https://www.flaticon.com/ru/free-icon/telegram_2111646?related_id=2111646" width="40" height="40" alt="t.me" />&nbsp
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
 </a>
 </div>
 
